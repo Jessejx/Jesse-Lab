@@ -1,3 +1,3 @@
 # Jesse-s-codings
 
-这个仓库中，我将储存我的代码与主要书写习惯，主要为了防止自己忘记(曾经的)代码
+Hi, my name is Jesse. In this rep, I will save my codings and records.

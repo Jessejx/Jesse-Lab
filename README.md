@@ -2,9 +2,9 @@
 
 Hi, my name is Jesse, I my a student in China. In this rep, I will save my codings and records.
 
-For records
+# For records
 
 ## Pycharm records
 
 ###1 Python Console and Terminal
-![image](./figure_1.jpg)
+![image](./figure1.jpg)

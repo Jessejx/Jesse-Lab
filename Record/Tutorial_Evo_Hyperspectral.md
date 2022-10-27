@@ -31,4 +31,12 @@
 此时人们的发展方向仍然还是停留在多尺度、3d卷积的操作，具体如下图：  
 ![contributions](./figure15.jpg)  
 
+### 2018年
+·HSI-CNN: A Novel Convolution Neural Network for Hyperspectral Image  
+·THREE DIMENSIONAL DEEP LEARNING APPROACH FOR REMOTE SENSING IMAGE CLASSIFICATION  
+不痛不痒的结构升级，开始结合胶囊神经网络、xgboost等模块水轮文
+![contributions](./figure16.jpg)  
+
+
+
 

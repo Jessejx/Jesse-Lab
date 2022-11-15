@@ -50,14 +50,14 @@ $$ERGAS=\frac{100}{R}\sqrt{\frac{1}{B}\sum_{b}^{}\left ( \frac{RMSE(b)}{\mu(b)} 
 ============================================================================================
 # Related Works
 In our research, we focus on Multi-spectral image and hyperspectral image which based on Deep Learning based Approaches. We records related work as followed: \\
-+ Deep Hyperspectral Image Sharpening TNNLS2018 [Coding_tf](https://github.com/renweidian/DHSIS)[pdf](https://drive.google.com/file/d/1FIyVL9c8jlDY3heEZ57nGvpSDZc0mkeT/view?usp=drive_open)
-+ Unsupervised Sparse Dirichlet-Net for Hyperspectral Image Super-Resolution CVPR2018 [Coding_tf](https://github.com/aicip/uSDN)[pdf](https://arxiv.org/abs/1804.05042)
++ Deep Hyperspectral Image Sharpening TNNLS2018 [Coding_tf](https://github.com/renweidian/DHSIS)  [pdf](https://drive.google.com/file/d/1FIyVL9c8jlDY3heEZ57nGvpSDZc0mkeT/view?usp=drive_open)
++ Unsupervised Sparse Dirichlet-Net for Hyperspectral Image Super-Resolution CVPR2018 [Coding_tf](https://github.com/aicip/uSDN)  [pdf](https://arxiv.org/abs/1804.05042)
 + Deep Hyperspectral Prior: Denoising, Inpainting, Super-Resolution, arXiv2019 [Coding_torch](https://github.com/acecreamu/deep-hs-prior)[pdf](https://arxiv.org/abs/1902.00301)
-+ Multispectral and Hyperspectral Image Fusion by MS/HS Fusion Net, CVPR2019, [Coding_tf](https://github.com/XieQi2015/MHF-net)[pdf](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/1901.03281.pdf)
-+ Deep Blind Hyperspectral Image Super-Resolution, IEEE TNNLS 2020, [Coding_torch](https://github.com/JiangtaoNie/DBSR)[pdf](https://ieeexplore.ieee.org/abstract/document/9136736)
-+ Unsupervised Adaptation Learning for Hyperspectral Imagery Super-Resolution, CVPR2020, [Coding_torch](https://github.com/JiangtaoNie/UAL)[pdf](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Unsupervised_Adaptation_Learning_for_Hyperspectral_Imagery_Super-Resolution_CVPR_2020_paper.html)
++ Multispectral and Hyperspectral Image Fusion by MS/HS Fusion Net, CVPR2019, [Coding_tf](https://github.com/XieQi2015/MHF-net)  [pdf](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/1901.03281.pdf)
++ Deep Blind Hyperspectral Image Super-Resolution, IEEE TNNLS 2020, [Coding_torch](https://github.com/JiangtaoNie/DBSR)  [pdf](https://ieeexplore.ieee.org/abstract/document/9136736)
++ Unsupervised Adaptation Learning for Hyperspectral Imagery Super-Resolution, CVPR2020, [Coding_torch](https://github.com/JiangtaoNie/UAL)  [pdf](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Unsupervised_Adaptation_Learning_for_Hyperspectral_Imagery_Super-Resolution_CVPR_2020_paper.html)
 + Cross-Attention in Coupled Unmixing Nets for Unsupervised Hyperspectral Super-Resolution, ECCV2020, [Coding_torch](https://github.com/danfenghong/ECCV2020_CUCaNet)
-+ Unsupervised Recurrent Hyperspectral Imagery Super-Resolution Using Pixel-Aware Refinement, TGRS2021, [Coding_torch](https://github.com/JiangtaoNie/Rec_HSISR_PixAwaRefin) [pdf](https://ieeexplore.ieee.org/document/9292466)
++ Unsupervised Recurrent Hyperspectral Imagery Super-Resolution Using Pixel-Aware Refinement, TGRS2021, [Coding_torch](https://github.com/JiangtaoNie/Rec_HSISR_PixAwaRefin)  [pdf](https://ieeexplore.ieee.org/document/9292466)
 + Hyperspectral Image Super-Resolution via Deep Progressive Zero-Centric Residual Learning, TIP2021, [Coding_mat](https://drive.google.com/drive/folders/1esPuiKcSEzQBeDPMg_IU_VvB3FvH0aZl)
 + Hyperspectral Image Super-Resolution via Deep Prior Regularization with Parameter Estimation, IEEE TCSVT 2021, [Coding_torch](https://github.com/xiuheng-wang/Sylvester_TSFN_MDC_HSI_superresolution/blob/main/train.py)
 + Hyperspectral Image Super-Resolution with Self-Supervised Spectral-Spatial Residual Network

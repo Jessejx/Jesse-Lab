@@ -48,5 +48,22 @@ $$ERGAS=\frac{100}{R}\sqrt{\frac{1}{B}\sum_{b}^{}\left ( \frac{RMSE(b)}{\mu(b)} 
 
 
 ============================================================================================
-In our research, we focus on Multi-spectral image and hyperspectral image which based on Deep Learning based Approaches. \
+# Related Works
+In our research, we focus on Multi-spectral image and hyperspectral image which based on Deep Learning based Approaches. We records related work as followed: \\
++ Deep Hyperspectral Image Sharpening TNNLS2018 [Coding_tf](https://github.com/renweidian/DHSIS)
++ Unsupervised Sparse Dirichlet-Net for Hyperspectral Image Super-Resolution CVPR2018 [Coding_tf](https://github.com/aicip/uSDN)
++ Deep Hyperspectral Prior: Denoising, Inpainting, Super-Resolution, arXiv2019 [Coding_torch](https://github.com/acecreamu/deep-hs-prior)
++ Multispectral and Hyperspectral Image Fusion by MS/HS Fusion Net, CVPR2019, [Coding_tf](https://github.com/XieQi2015/MHF-net)
++ Deep Blind Hyperspectral Image Super-Resolution, IEEE TNNLS 2020, [Coding_torch](https://github.com/JiangtaoNie/DBSR)
++ Unsupervised Adaptation Learning for Hyperspectral Imagery Super-Resolution, CVPR2020, [Coding_torch](https://github.com/JiangtaoNie/UAL)
++ Cross-Attention in Coupled Unmixing Nets for Unsupervised Hyperspectral Super-Resolution, ECCV2020, [Coding_torch](https://github.com/danfenghong/ECCV2020_CUCaNet)
++ Unsupervised Recurrent Hyperspectral Imagery Super-Resolution Using Pixel-Aware Refinement, TGRS2021, [Coding_torch](https://github.com/JiangtaoNie/Rec_HSISR_PixAwaRefin)
++ Hyperspectral Image Super-Resolution via Deep Progressive Zero-Centric Residual Learning, TIP2021, [Coding_mat](https://drive.google.com/drive/folders/1esPuiKcSEzQBeDPMg_IU_VvB3FvH0aZl)
++ Hyperspectral Image Super-Resolution via Deep Prior Regularization with Parameter Estimation, IEEE TCSVT 2021, [Coding_torch](https://github.com/xiuheng-wang/Sylvester_TSFN_MDC_HSI_superresolution/blob/main/train.py)
++ Hyperspectral Image Super-Resolution with Self-Supervised Spectral-Spatial Residual Network
++ Model-Guided Deep Hyperspectral Image Super-Resolution, IEEE TIP 2021, [Coding_torch](https://github.com/chengerr/Model-Guided-Deep-Hyperspectral-Image-Super-resolution)
++ Hyperspectral Image Super-resolution with Deep Priors and Degradation Model Inversion,  ICASSP 2022
++ Model Inspired Autoencoder for Unsupervised Hyperspectral Image Super-Resolution, TGRS 2022, [Coding_torch](https://github.com/liuofficial/MIAE)
+
+
 
